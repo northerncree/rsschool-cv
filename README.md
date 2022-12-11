@@ -1,1 +1,1 @@
-https://github.com/northerncree/rsschool-cv
+https://github.com/northerncree/rsschool-cv/
