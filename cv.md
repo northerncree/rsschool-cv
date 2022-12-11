@@ -1,4 +1,4 @@
-<p style="font-size: 25px;">Hello my name is Igor Maslennikov</p>
+<p style="font-size: 30px;">Hello my name is Igor Maslennikov</p>
 
 E-mail: porkorosso@protonmail.com
 
