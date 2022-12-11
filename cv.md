@@ -39,7 +39,7 @@
       <h1><a href="https://devscaler.github.io/rsschool-cv/">rsschool-cv</a></h1>
       
 
-      <h1 id="daniil-yukhlov"><strong>Daniil Yukhlov</strong></h1>
+      <h1 id="igor maslennikov"><strong>igor maslennikov</strong></h1>
 <hr />
 <h2 id="contact-info"><strong>Contact Info</strong></h2>
 <ul>
