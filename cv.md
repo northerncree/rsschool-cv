@@ -45,7 +45,7 @@
 <ul>
   <li><strong>E-mail:</strong> porkorosso@protonmail.com</li>
   <li><strong>GitHub:</strong> <a href="https://github.com/northerncree">northerncree</a></li>
-  <li><strong>Discord:</strong> Devior</li>
+  <li><strong>Discord:</strong> Thedharmabum#9048</li>
 </ul>
 
 <h2 id="professional-experience"><strong>Professional experience</strong></h2>
