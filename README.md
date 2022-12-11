@@ -1,2 +1,1 @@
-# rsschool-cv
-Igor Maslennikov
+https://northerncree.github.io/rsschool-cv/cv
