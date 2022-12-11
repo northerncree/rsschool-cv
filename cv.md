@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Igor Maslennikov | rsschool-cv</title>
+<title> Igor Maslennikov | rsschool-cv </title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="Daniil Yukhlov" />
 <meta property="og:locale" content="en_US" />
